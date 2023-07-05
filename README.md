@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SIEM, Azure Senteniel</b>
+- <b>SIEM</b>
   - [Live Global Threat Monitering](https://github.com/ermiasket/LiveGlobalThreatMonitering)
     
 
