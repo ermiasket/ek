@@ -3,9 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM, Azure Senteniel</b>
-  - [Active Directory Bulk User Creation](https://github.com/ermiasketema/SentinelSIEM.git)
-  - 
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Live Global Threat Monitering](https://github.com/ermiasket/LiveGlobalThreatMonitering)
+    
 
 
 <h2>📃 Certifications</h2>
