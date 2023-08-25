@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SIEM</b>
-  - [Live Global Threat Monitering](https://github.com/ermiasket/LiveGlobalThreatMonitering)
+- <b>[Live Global Threat Monitering](https://github.com/ermiasket/LiveGlobalThreatMonitering)</b>
+  
     
 
 
